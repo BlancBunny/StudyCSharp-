@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CFE373D5-E5FC-4394-B5AF-83739AE3AAF5}</ProjectGuid>
+    <ProjectGuid>{C07BE86C-A68C-4308-A267-DD5E24145209}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VariableTestApp</RootNamespace>
-    <AssemblyName>VariableTestApp</AssemblyName>
+    <RootNamespace>ShiftOperator</RootNamespace>
+    <AssemblyName>ShiftOperator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

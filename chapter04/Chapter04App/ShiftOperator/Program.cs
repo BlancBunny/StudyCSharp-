@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VariableTestApp
+namespace ShiftOperator
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int v1 = 30, v2 = 40;
-            int result = v1 + v2;
-            Console.WriteLine("결과는 " + result);
+            int a = 240;
+            int result1 = a << 2; 
+            int result2 = a >> 2;
+
+            Console.WriteLine($"a = {a}, a << 2 = {result1}, a >> 2 = {result2}");
         }
     }
 }
