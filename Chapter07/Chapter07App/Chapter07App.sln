@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter07App", "Chapter07App\Chapter07App.csproj", "{2B1FBD51-3120-4589-9648-19C60D356F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter07App", "Chapter07App\Chapter07App.csproj", "{2B1FBD51-3120-4589-9648-19C60D356F02}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTestApp", "CalcTestApp\CalcTestApp.csproj", "{030269B0-B9FB-4525-8DC2-E44E6549B3E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticFieldApp", "StaticFieldApp\StaticFieldApp.csproj", "{780B6BF6-B935-4672-A1C2-774F45C7F6B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifierApp", "AccessModifierApp\AccessModifierApp.csproj", "{91391813-EAD8-4AE8-B260-680E52B8B084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceApp", "InheritanceApp\InheritanceApp.csproj", "{C75C2810-7F1D-4167-9B0D-E6CB114C9887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTypeCastApp", "ClassTypeCastApp\ClassTypeCastApp.csproj", "{8DDA8B7A-75F7-4FEF-B663-BC60126D2BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrideTestApp", "OverrideTestApp\OverrideTestApp.csproj", "{6E07B0E3-5CB7-4DAB-AD9F-106BCE4C840A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{91391813-EAD8-4AE8-B260-680E52B8B084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91391813-EAD8-4AE8-B260-680E52B8B084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91391813-EAD8-4AE8-B260-680E52B8B084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75C2810-7F1D-4167-9B0D-E6CB114C9887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75C2810-7F1D-4167-9B0D-E6CB114C9887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75C2810-7F1D-4167-9B0D-E6CB114C9887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75C2810-7F1D-4167-9B0D-E6CB114C9887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDA8B7A-75F7-4FEF-B663-BC60126D2BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDA8B7A-75F7-4FEF-B663-BC60126D2BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDA8B7A-75F7-4FEF-B663-BC60126D2BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDA8B7A-75F7-4FEF-B663-BC60126D2BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E07B0E3-5CB7-4DAB-AD9F-106BCE4C840A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E07B0E3-5CB7-4DAB-AD9F-106BCE4C840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E07B0E3-5CB7-4DAB-AD9F-106BCE4C840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E07B0E3-5CB7-4DAB-AD9F-106BCE4C840A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
