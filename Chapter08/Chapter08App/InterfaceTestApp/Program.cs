@@ -10,7 +10,7 @@ namespace InterfaceTestApp
     {
         void WriteLog(string msg);
     }
-
+    
     class ConsoleLogger : ILogger
     {
         public void WriteLog(string msg)
