@@ -10,8 +10,15 @@ namespace AddressApp
     {
         static void Main(string[] args)
         {
-            Menu m = new Menu();
-            m.Start();
+            Control c = new Control();
+            List<Address> addressArray = c.ListLoad();
+            // 파일로부터 리스트 불러오기
+
+            c.Start(ref addressArray);
+            // 루프 실행 
+
+            c.ListSave(addressArray);
+            // 리스트를 파일로 저장 
         }
     }
 }
