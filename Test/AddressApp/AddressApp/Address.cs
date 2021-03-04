@@ -11,6 +11,14 @@ namespace AddressApp
         private string name;
         private string phone;
         private string addr;
+
+        public Address() { }
+        public Address(string name, string phone, string addr)
+        {
+            this.name = name;
+            this.phone = phone;
+            this.addr = addr;
+        }
         public string Name
         {
             get { return name; }
