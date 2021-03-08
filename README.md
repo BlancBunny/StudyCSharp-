@@ -4,8 +4,8 @@
 
 -------------------------------
 
-## Basic C# 
-기본문법 학습
+# Basic C# 
+C# 기본문법 학습
 * Chapter 03 [변수 / 자료형](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter03/Chapter03App)  
 * Chapter 04 [연산자](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter04/Chapter04App)  
 * Chapter 05 [분기문/반복문](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter05/Chapter05App)  
@@ -21,7 +21,7 @@
 * Chapter 19 [스레드/태스크](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter19/Chapter19App)  
 * Chapter 20 [Winform UI 제작](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter20/Chapter20App)  
 
-## 주소록 제작 / 파일 연동 실습
+## 콘솔 주소록 제작 / 파일 연동 실습
 * [실습 프로그램 코드](https://github.com/BlancBunny/StudyCSharp21/tree/main/Test/AddressApp)
 #### <프로그램 메인 화면><br>
 ![프로그램 메인 화면](https://user-images.githubusercontent.com/77951828/110291511-5999c500-802f-11eb-9991-bfb32be983fa.png "실행 화면")
