@@ -23,11 +23,11 @@
 
 ## 주소록 제작 / 파일 연동 실습
 * [실습 프로그램 코드](https://github.com/BlancBunny/StudyCSharp21/tree/main/Test/AddressApp)
-* 프로그램 메인 화면<br>
+#### 프로그램 메인 화면<br>
 ![프로그램 메인 화면](https://user-images.githubusercontent.com/77951828/110291511-5999c500-802f-11eb-9991-bfb32be983fa.png "실행 화면")
-* 결과 출력<br>
+#### 결과 출력<br>
 ![결과 출력](https://user-images.githubusercontent.com/77951828/110291532-5e5e7900-802f-11eb-812a-b85a95c6b583.png "결과 화면")
-* 로그 파일<br>
+#### 로그 파일<br>
 ![로그 파일](https://user-images.githubusercontent.com/77951828/110291538-60283c80-802f-11eb-9382-8662962017e3.png "로그 파일")
 --------------------------------
 
