@@ -6,7 +6,8 @@
 
 ## Basic C# 
 기본문법 학습
-<br> + Chapter 03 [변수 / 자료형](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter03/Chapter03App)
+<br>
+* Chapter 03 [변수 / 자료형](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter03/Chapter03App)
 <br>Chapter 04 [연산자](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter04/Chapter04App)
 <br>Chapter 05 [분기문/반복문](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter05/Chapter05App)
 <br>Chapter 06 [메소드/참조](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter06/Chapter06App)
