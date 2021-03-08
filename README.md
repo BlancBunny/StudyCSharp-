@@ -15,7 +15,7 @@
 * Chapter 09 [프로퍼티](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter09/Chapter09App)  
 * Chapter 10 [배열/컬렉션](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter10/Chapter10App)  
 * Chapter 11 [제너릭(일반화)](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter11/Chapter11App)  
-* Chapter 12 [예외 처리](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter12/Chapter12App)  
+* Chapter 12 [예외 처리](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter12/ExceptionApp)  
 * Chapter 13 [대리자(델리게이트) / 이벤트](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter13/Chapter13App)  
 * Chapter 18 [파일 다루기](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter18/Chapter18App)  
 * Chapter 19 [스레드/태스크](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter19/Chapter19App)  
