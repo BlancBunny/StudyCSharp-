@@ -10,7 +10,11 @@ namespace AddressApp
 {
     class Control
     {
+<<<<<<< HEAD
         public void Start(List<Address> list)
+=======
+        public void Start(ref List<Address> list)
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
             {
             AddressEdit ae = new AddressEdit();
             while (true)
@@ -23,6 +27,7 @@ namespace AddressApp
                     {
                         case 0:
                             // 주소 입력 
+<<<<<<< HEAD
                             ae.InputAddress(list);
                             break;
                         case 1:
@@ -40,6 +45,25 @@ namespace AddressApp
                         case 4:
                             // 주소 전체 출력 
                             ae.PrintAddress(list);
+=======
+                            ae.InputAddress(ref list);
+                            break;
+                        case 1:
+                            // 주소 검색 
+                            ae.SelectAddress(ref list);
+                            break;
+                        case 2:
+                            // 주소 수정 
+                            ae.UpdateAddress(ref list);
+                            break;
+                        case 3:
+                            // 주소 삭제 
+                            ae.DeleteAddress(ref list);
+                            break;
+                        case 4:
+                            // 주소 전체 출력 
+                            ae.PrintAddress(ref list);
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
                             break;
                         case 5:
                             // 프로그램 종료 

@@ -14,7 +14,11 @@ namespace AddressApp
             List<Address> addressArray = c.ListLoad();
             // 파일로부터 리스트 불러오기
 
+<<<<<<< HEAD
             c.Start(addressArray);
+=======
+            c.Start(ref addressArray);
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
             // 루프 실행 
 
             c.ListSave(addressArray);

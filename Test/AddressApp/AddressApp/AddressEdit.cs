@@ -9,7 +9,11 @@ namespace AddressApp
     class AddressEdit
     {
         // 입력, 검색, 수정, 삭제, 전체 출력
+<<<<<<< HEAD
         public void InputAddress(List<Address> list)
+=======
+        public void InputAddress(ref List<Address> list)
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
         {
             Address a = new Address(ReadWrite("이름"), ReadWrite("전화번호"), ReadWrite("주소"));
             if (CheckNull(a.Name, a.Phone, a.Addr)) return;
@@ -20,7 +24,11 @@ namespace AddressApp
         }
             
         } // 입력
+<<<<<<< HEAD
         public void SelectAddress(List<Address> list)
+=======
+        public void SelectAddress(ref List<Address> list)
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
         {
             string name = ReadWrite("이름");
             if (CheckNull(name)) return;
@@ -44,7 +52,11 @@ namespace AddressApp
                 }
             }
         } // 검색
+<<<<<<< HEAD
         public void UpdateAddress(List<Address> list)
+=======
+        public void UpdateAddress(ref List<Address> list)
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
         {
             string name = ReadWrite("이름");
             if (CheckNull(name)) return;
@@ -89,7 +101,11 @@ namespace AddressApp
 
 
         } // 수정
+<<<<<<< HEAD
         public void DeleteAddress(List<Address> list)
+=======
+        public void DeleteAddress(ref List<Address> list)
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
         {
             {
                 string name = ReadWrite("이름");
@@ -121,7 +137,11 @@ namespace AddressApp
                 }
             }
         } // 삭제
+<<<<<<< HEAD
         public void PrintAddress(List<Address> list)
+=======
+        public void PrintAddress(ref List<Address> list)
+>>>>>>> c64e6853cacbe6ebc803e715b934540800e7c330
         {
             Console.WriteLine("주소록 전체 출력");
             for (int i = 0; i < list.Count; i++)
