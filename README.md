@@ -1,9 +1,8 @@
 # StudyCSharp-
-C\# 학습용 리포지토리
+<a>C\# 학습용 리포지토리</a>
 -------------------------------
-
 ## Basic C# 
-기본문법 학습
+기본문법 학습<br>
 Chapter 03 [변수 / 자료형](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter03/Chapter03App)<br>
 Chapter 04 [연산자](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter04/Chapter04App)<br>
 Chapter 05 [분기문/반복문](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter05/Chapter05App)<br>
@@ -18,5 +17,4 @@ Chapter 13 [대리자(델리게이트) / 이벤트](https://github.com/BlancBunn
 Chapter 18 [파일 다루기](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter18/Chapter18App)<br>
 Chapter 19 [스레드/태스크](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter19/Chapter19App)<br>
 Chapter 20 [Winform UI 제작](https://github.com/BlancBunny/StudyCSharp21/tree/main/Chapter20/Chapter20App)<br>
-
 --------------------------------
